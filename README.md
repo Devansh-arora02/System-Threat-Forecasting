@@ -1,7 +1,7 @@
-# System Threat Detection
+# System Threat Forecasting
 
 This project was a part of the **Diploma in Data Science Programme** offered by **IIT Madras**.  
-It aims to detect whether a system is under threat using **data analysis** and **machine learning** methods.  
+It aims to forecast whether a system may be prone to cyber threat using **data analysis** and **machine learning** methods.  
 The project was completed under the guidance of **Dr. Ashish Tendulkar**, Research Software Engineer, Google AI.
 
 This project was developed as a part of the  
