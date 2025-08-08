@@ -4,6 +4,8 @@ This project was a part of the **Diploma in Data Science Programme** offered by 
 It aims to detect whether a system is under threat using **data analysis** and **machine learning** methods.  
 The project was completed under the guidance of **Dr. Ashish Tendulkar**, Research Software Engineer, Google AI.
 
+The project was conducted in the form of a kaggle competition, where I was ranked at the **46th position** on a leaderboard of 1519 participants.
+
 ---
 
 ## Overview
@@ -28,4 +30,14 @@ A variety of **statistical methods** and **visualization techniques** (heatmaps,
 
 ---
 
-## Repository Structure
+---
+
+## Results
+Three separate models were trained to generate the best output. The models were 
+1. Random Forest
+2. XGBoost
+3. LightGBM
+
+LightGBM generated best results on validation set. It achieved **63% accuracy** on unseen test data.
+
+---
