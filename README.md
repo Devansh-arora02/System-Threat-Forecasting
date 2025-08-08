@@ -4,7 +4,8 @@ This project was a part of the **Diploma in Data Science Programme** offered by 
 It aims to detect whether a system is under threat using **data analysis** and **machine learning** methods.  
 The project was completed under the guidance of **Dr. Ashish Tendulkar**, Research Software Engineer, Google AI.
 
-The project was conducted in the form of a kaggle competition, where I was ranked at the **46th position** on a leaderboard of 1519 participants.
+This project was developed as a part of the  
+[System Threat Forecaster Kaggle Competition](https://www.kaggle.com/competitions/System-Threat-Forecaster/leaderboard), where I was ranked at the **46th position** on a leaderboard of 1519 participants.
 
 ---
 
